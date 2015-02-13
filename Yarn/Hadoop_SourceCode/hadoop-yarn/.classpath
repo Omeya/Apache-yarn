@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="hadoop-yarn-api/src/main/java"/>
+	<classpathentry kind="src" path="hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/src/main/java"/>
+	<classpathentry kind="src" path="hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/src/test/java"/>
+	<classpathentry kind="src" path="hadoop-yarn-applications/hadoop-yarn-applications-unmanaged-am-launcher/src/main/java"/>
+	<classpathentry kind="src" path="hadoop-yarn-applications/hadoop-yarn-applications-unmanaged-am-launcher/src/test/java"/>
+	<classpathentry kind="src" path="hadoop-yarn-client/src/main/java"/>
+	<classpathentry kind="src" path="hadoop-yarn-client/src/test/java"/>
+	<classpathentry kind="src" path="hadoop-yarn-common/src/main/java"/>
+	<classpathentry kind="src" path="hadoop-yarn-common/src/test/java"/>
+	<classpathentry kind="src" path="hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/src/main/java"/>
+	<classpathentry kind="src" path="hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/src/test/java"/>
+	<classpathentry kind="src" path="hadoop-yarn-server/hadoop-yarn-server-common/src/main/java"/>
+	<classpathentry kind="src" path="hadoop-yarn-server/hadoop-yarn-server-common/src/test/java"/>
+	<classpathentry excluding="org/apache/hadoop/yarn/server/nodemanager/webapp/" kind="src" path="hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java"/>
+	<classpathentry kind="src" path="hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java/org/apache/hadoop/yarn/server/nodemanager/webapp"/>
+	<classpathentry kind="src" path="hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java"/>
+	<classpathentry kind="src" path="hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java"/>
+	<classpathentry kind="src" path="hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java"/>
+	<classpathentry kind="src" path="hadoop-yarn-server/hadoop-yarn-server-tests/src/test/java"/>
+	<classpathentry kind="src" path="hadoop-yarn-server/hadoop-yarn-server-web-proxy/src/main/java"/>
+	<classpathentry kind="src" path="hadoop-yarn-server/hadoop-yarn-server-web-proxy/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
